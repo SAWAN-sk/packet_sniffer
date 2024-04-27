@@ -17,9 +17,10 @@ This project is a network sniffer tool implemented in Python. It captures and an
 - Visit the Npcap website and download the appropriate installer for your system.
 - Run the installer and follow the installation instructions.
 ## Usage
-Navigate to the project directory:
+#### Navigate to the project directory:
 - cd network-sniffer
-Run the network sniffer script:
+  
+#### Run the network sniffer script:
 - python sniffer.py
 
 ### The script will start capturing network packets and display detailed information about each packet in real-time.
